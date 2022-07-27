@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamelPage
 - 👀 I’m interested in Games And Creating Them
-- 🌱 I’m currently learning Batch and JAVA
+- 🌱 I’m currently learning Batch and C++
 - 📫 How to reach me どCAMEL PAGEど#2938
 
 <!---
